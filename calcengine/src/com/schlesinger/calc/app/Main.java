@@ -8,9 +8,6 @@ import com.schlesinger.calc.engine.InvalidStatementException;
 
 
 public class Main {
-
-	public static boolean firsttime = true ; 
-	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
