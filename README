@@ -14,3 +14,14 @@ result = 208.0
 result = 33.0
 bash-3.2$ 
 
+to run a jar file - created as an executable jar - 
+
+bash-3.2$ java -jar calculator.jar 
+java -jar calculator.jar
+result = 2.0
+result = 117.0
+result = 208.0
+result = 33.0
+bash-3.2$ 
+
+
